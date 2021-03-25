@@ -1,0 +1,7 @@
+/* 段組み */
+
+.layout {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  }
